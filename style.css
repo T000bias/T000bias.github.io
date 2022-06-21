@@ -1,0 +1,27 @@
+/* Color palette */
+/* 
+    black - #020202;
+    prussian blue - #0D324D
+    Chinese Violet - #7F5A83
+    Glossy Grape - A188A6
+    Sliver Metallic - #9DA2AB
+*/
+
+/* Navigation section */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    color: white;
+    
+}
+
+li {
+    display: inline;
+}
+
+li a:hover {
+    background-color:antiquewhite;
+}
